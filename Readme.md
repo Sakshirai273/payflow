@@ -5,8 +5,13 @@ This is a PayPal Clone Application built using Spring Boot microservices archite
 Technologies Used
 
 Spring Boot
+
 Spring Security (JWT Authentication)
+
 Kafka (Messaging)
+
 Redis (Caching & Rate Limiting)
+
 Docker & Docker Compose
+
 Maven
